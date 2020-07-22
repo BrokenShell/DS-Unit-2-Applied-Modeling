@@ -2,5 +2,5 @@
 - Assignment 1: Finished
 - Assignment 2: Finished
 - Assignment 3: Finished
-- Assignment 4:
-
+- Assignment 4: Finished
+- Sprint Challenge: 3/3
